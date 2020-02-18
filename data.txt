@@ -1,3 +1,13 @@
+distance 0
+
+b'     agrCtlRSSI: -46\n     agrExtRSSI: 0\n    agrCtlNoise: -92\n    agrExtNoise: 0\n          state: running\n        op mode: station \n     lastTxRate: 585\n        maxRate: 867\nlastAssocStatus: 0\n    802.11 auth: open\n      link auth: wpa2-psk\n          BSSID: 2e:7d:85:41:ba:cc\n           SSID: YTP\n            MCS: 7\n        channel: 157,80\n'
+b'     agrCtlRSSI: -45\n     agrExtRSSI: 0\n    agrCtlNoise: -92\n    agrExtNoise: 0\n          state: running\n        op mode: station \n     lastTxRate: 585\n        maxRate: 867\nlastAssocStatus: 0\n    802.11 auth: open\n      link auth: wpa2-psk\n          BSSID: 2e:7d:85:41:ba:cc\n           SSID: YTP\n            MCS: 7\n        channel: 157,80\n'
+b'     agrCtlRSSI: -45\n     agrExtRSSI: 0\n    agrCtlNoise: -92\n    agrExtNoise: 0\n          state: running\n        op mode: station \n     lastTxRate: 585\n        maxRate: 867\nlastAssocStatus: 0\n    802.11 auth: open\n      link auth: wpa2-psk\n          BSSID: 2e:7d:85:41:ba:cc\n           SSID: YTP\n            MCS: 7\n        channel: 157,80\n'
+b'     agrCtlRSSI: -45\n     agrExtRSSI: 0\n    agrCtlNoise: -92\n    agrExtNoise: 0\n          state: running\n        op mode: station \n     lastTxRate: 585\n        maxRate: 867\nlastAssocStatus: 0\n    802.11 auth: open\n      link auth: wpa2-psk\n          BSSID: 2e:7d:85:41:ba:cc\n           SSID: YTP\n            MCS: 7\n        channel: 157,80\n'
+b'     agrCtlRSSI: -45\n     agrExtRSSI: 0\n    agrCtlNoise: -90\n    agrExtNoise: 0\n          state: running\n        op mode: station \n     lastTxRate: 702\n        maxRate: 867\nlastAssocStatus: 0\n    802.11 auth: open\n      link auth: wpa2-psk\n          BSSID: 2e:7d:85:41:ba:cc\n           SSID: YTP\n            MCS: 8\n        channel: 157,80\n'
+
+
+
 5
 
 A
